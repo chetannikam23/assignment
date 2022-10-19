@@ -21,4 +21,4 @@ Note: use your **personal GitHub account** with some **projects** for reference.
 As a developer, projects speak louder than years of experience or CV.
 (Any project in iOS, even tutorial or school projects would be appreciated)
 
-PS, **always tag** _nets-dev_ when you write to us on GitHub so we receive notification and reply promptly.
+!!! PS, **ALWAYS TAG** _nets-dev_ when you write to us on GitHub so we receive notification and reply promptly. !!!
